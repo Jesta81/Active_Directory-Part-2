@@ -12,7 +12,7 @@
 ![AD Computer](/Enumerating-AD-Computers/images/help.png) 
 
 
-![AD Computer](/Enumerating-AD-Computers/images/name.png) 
+![AD Computer](/Enumerating-AD-Computers/images/names.png) 
 
 
 ![AD Computer](/Enumerating-AD-Computers/images/info.png) 
